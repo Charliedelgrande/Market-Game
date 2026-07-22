@@ -1,0 +1,4520 @@
+[
+ {
+  "id": "rw-001",
+  "prompt": "Population of India, in millions of people?",
+  "value": 1428.6,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 1,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-002",
+  "prompt": "Population of China, in millions of people?",
+  "value": 1410.7,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 1,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-003",
+  "prompt": "Population of the United States, in millions of people?",
+  "value": 334.9,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 1,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-004",
+  "prompt": "Population of Indonesia, in millions of people?",
+  "value": 277.5,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-005",
+  "prompt": "Population of Pakistan, in millions of people?",
+  "value": 240.5,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-006",
+  "prompt": "Population of Nigeria, in millions of people?",
+  "value": 223.8,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-007",
+  "prompt": "Population of Brazil, in millions of people?",
+  "value": 216.4,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 1,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-008",
+  "prompt": "Population of Mexico, in millions of people?",
+  "value": 128.5,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-009",
+  "prompt": "Population of Japan, in millions of people?",
+  "value": 124.5,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 1,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-010",
+  "prompt": "Population of Egypt, in millions of people?",
+  "value": 112.7,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-011",
+  "prompt": "Population of Vietnam, in millions of people?",
+  "value": 98.9,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-012",
+  "prompt": "Population of Turkey, in millions of people?",
+  "value": 85.3,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-013",
+  "prompt": "Population of Germany, in millions of people?",
+  "value": 84.5,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 1,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-014",
+  "prompt": "Population of Thailand, in millions of people?",
+  "value": 71.8,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-015",
+  "prompt": "Population of the United Kingdom, in millions of people?",
+  "value": 68.4,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 1,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-016",
+  "prompt": "Population of France, in millions of people?",
+  "value": 68.2,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 1,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-017",
+  "prompt": "Population of South Africa, in millions of people?",
+  "value": 60.4,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-018",
+  "prompt": "Population of Italy, in millions of people?",
+  "value": 58.8,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-019",
+  "prompt": "Population of Kenya, in millions of people?",
+  "value": 55.1,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-020",
+  "prompt": "Population of South Korea, in millions of people?",
+  "value": 51.7,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-021",
+  "prompt": "Population of Spain, in millions of people?",
+  "value": 48.4,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-022",
+  "prompt": "Population of Argentina, in millions of people?",
+  "value": 46.7,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-023",
+  "prompt": "Population of Canada, in millions of people?",
+  "value": 40.1,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 1,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-024",
+  "prompt": "Population of Poland, in millions of people?",
+  "value": 36.6,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-025",
+  "prompt": "Population of Nepal, in millions of people?",
+  "value": 30.9,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-026",
+  "prompt": "Population of Australia, in millions of people?",
+  "value": 26.6,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 1,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-027",
+  "prompt": "Population of Portugal, in millions of people?",
+  "value": 10.5,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-028",
+  "prompt": "Population of Sweden, in millions of people?",
+  "value": 10.5,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-029",
+  "prompt": "Population of Israel, in millions of people?",
+  "value": 9.8,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-030",
+  "prompt": "Population of Switzerland, in millions of people?",
+  "value": 8.8,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-031",
+  "prompt": "Population of Singapore, in millions of people?",
+  "value": 5.9,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-032",
+  "prompt": "Population of Norway, in millions of people?",
+  "value": 5.5,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-033",
+  "prompt": "Population of Ireland, in millions of people?",
+  "value": 5.3,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-034",
+  "prompt": "Population of New Zealand, in millions of people?",
+  "value": 5.2,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-035",
+  "prompt": "Population of Iceland, in millions of people?",
+  "value": 0.39,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 0
+ },
+ {
+  "id": "rw-036",
+  "prompt": "Land area of Russia, in thousands of square kilometers?",
+  "value": 17098,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 1,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-037",
+  "prompt": "Land area of Canada, in thousands of square kilometers?",
+  "value": 9985,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-038",
+  "prompt": "Land area of the United States, in thousands of square kilometers?",
+  "value": 9834,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-039",
+  "prompt": "Land area of China, in thousands of square kilometers?",
+  "value": 9597,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-040",
+  "prompt": "Land area of Brazil, in thousands of square kilometers?",
+  "value": 8516,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-041",
+  "prompt": "Land area of Australia, in thousands of square kilometers?",
+  "value": 7692,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-042",
+  "prompt": "Land area of India, in thousands of square kilometers?",
+  "value": 3287,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-043",
+  "prompt": "Land area of Argentina, in thousands of square kilometers?",
+  "value": 2780,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-044",
+  "prompt": "Land area of Kazakhstan, in thousands of square kilometers?",
+  "value": 2725,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-045",
+  "prompt": "Land area of Algeria, in thousands of square kilometers?",
+  "value": 2382,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-046",
+  "prompt": "Land area of metropolitan France, in thousands of square kilometers?",
+  "value": 543.9,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-047",
+  "prompt": "Land area of Spain, in thousands of square kilometers?",
+  "value": 506,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-048",
+  "prompt": "Land area of Japan, in thousands of square kilometers?",
+  "value": 378,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-049",
+  "prompt": "Land area of Germany, in thousands of square kilometers?",
+  "value": 357.6,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-050",
+  "prompt": "Land area of Italy, in thousands of square kilometers?",
+  "value": 302.1,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-051",
+  "prompt": "Land area of New Zealand, in thousands of square kilometers?",
+  "value": 268,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-052",
+  "prompt": "Land area of the United Kingdom, in thousands of square kilometers?",
+  "value": 242.5,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-053",
+  "prompt": "Land area of Iceland, in thousands of square kilometers?",
+  "value": 103,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-054",
+  "prompt": "Land area of the Netherlands, in thousands of square kilometers?",
+  "value": 41.9,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-055",
+  "prompt": "Land area of Switzerland, in thousands of square kilometers?",
+  "value": 41.3,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-056",
+  "prompt": "Land area of Belgium, in thousands of square kilometers?",
+  "value": 30.5,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-057",
+  "prompt": "Area of Greenland, in thousands of square kilometers?",
+  "value": 2166,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-058",
+  "prompt": "Area of Antarctica, in thousands of square kilometers?",
+  "value": 14200,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-059",
+  "prompt": "Area of the Sahara desert, in thousands of square kilometers?",
+  "value": 9200,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-060",
+  "prompt": "Height of Mount Everest above sea level, in meters?",
+  "value": 8849,
+  "source": "Wikidata P2044",
+  "asOf": "2020 survey",
+  "tier": 1,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-061",
+  "prompt": "Height of K2 above sea level, in meters?",
+  "value": 8611,
+  "source": "Wikidata P2044",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-062",
+  "prompt": "Height of Kangchenjunga above sea level, in meters?",
+  "value": 8586,
+  "source": "Wikidata P2044",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-063",
+  "prompt": "Height of Aconcagua above sea level, in meters?",
+  "value": 6961,
+  "source": "Wikidata P2044",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-064",
+  "prompt": "Height of Denali above sea level, in meters?",
+  "value": 6190,
+  "source": "Wikidata P2044",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-065",
+  "prompt": "Height of Mount Kilimanjaro above sea level, in meters?",
+  "value": 5895,
+  "source": "Wikidata P2044",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-066",
+  "prompt": "Height of Mount Elbrus above sea level, in meters?",
+  "value": 5642,
+  "source": "Wikidata P2044",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-067",
+  "prompt": "Height of Mont Blanc above sea level, in meters?",
+  "value": 4808,
+  "source": "Wikidata P2044",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-068",
+  "prompt": "Height of the Matterhorn above sea level, in meters?",
+  "value": 4478,
+  "source": "Wikidata P2044",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-069",
+  "prompt": "Height of Mount Fuji above sea level, in meters?",
+  "value": 3776,
+  "source": "Wikidata P2044",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-070",
+  "prompt": "Length of the Nile river, in kilometers?",
+  "value": 6650,
+  "source": "Wikidata P2043",
+  "asOf": "2024",
+  "tier": 1,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-071",
+  "prompt": "Length of the Amazon river, in kilometers?",
+  "value": 6400,
+  "source": "Wikidata P2043",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-072",
+  "prompt": "Length of the Yangtze river, in kilometers?",
+  "value": 6300,
+  "source": "Wikidata P2043",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-073",
+  "prompt": "Length of the Mekong river, in kilometers?",
+  "value": 4350,
+  "source": "Wikidata P2043",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-074",
+  "prompt": "Length of the Mississippi river (main stem), in kilometers?",
+  "value": 3766,
+  "source": "Wikidata P2043",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-075",
+  "prompt": "Length of the Volga river, in kilometers?",
+  "value": 3531,
+  "source": "Wikidata P2043",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-076",
+  "prompt": "Length of the Danube river, in kilometers?",
+  "value": 2850,
+  "source": "Wikidata P2043",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-077",
+  "prompt": "Length of the Rhine river, in kilometers?",
+  "value": 1233,
+  "source": "Wikidata P2043",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-078",
+  "prompt": "Length of the Seine river, in kilometers?",
+  "value": 777,
+  "source": "Wikidata P2043",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-079",
+  "prompt": "Length of the River Thames, in kilometers?",
+  "value": 346,
+  "source": "Wikidata P2043",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-080",
+  "prompt": "Architectural height of the Burj Khalifa, in meters?",
+  "value": 828,
+  "source": "Wikidata P2048",
+  "asOf": "2024",
+  "tier": 1,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-081",
+  "prompt": "Height of the Tokyo Skytree, in meters?",
+  "value": 634,
+  "source": "Wikidata P2048",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-082",
+  "prompt": "Height of the Shanghai Tower, in meters?",
+  "value": 632,
+  "source": "Wikidata P2048",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-083",
+  "prompt": "Height of the CN Tower in Toronto, in meters?",
+  "value": 553,
+  "source": "Wikidata P2048",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-084",
+  "prompt": "Height of One World Trade Center in New York, in meters?",
+  "value": 541,
+  "source": "Wikidata P2048",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-085",
+  "prompt": "Height of Taipei 101, in meters?",
+  "value": 508,
+  "source": "Wikidata P2048",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-086",
+  "prompt": "Height of the Petronas Towers in Kuala Lumpur, in meters?",
+  "value": 452,
+  "source": "Wikidata P2048",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-087",
+  "prompt": "Height of the Empire State Building including its antenna, in meters?",
+  "value": 443,
+  "source": "Wikidata P2048",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-088",
+  "prompt": "Height of the Eiffel Tower including antennas, in meters?",
+  "value": 330,
+  "source": "Wikidata P2048",
+  "asOf": "2024",
+  "tier": 1,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-089",
+  "prompt": "Current height of the Great Pyramid of Giza, in meters?",
+  "value": 138.6,
+  "source": "Wikidata P2048",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-090",
+  "prompt": "Surface area of the Caspian Sea, in thousands of square kilometers?",
+  "value": 371,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-091",
+  "prompt": "Surface area of Lake Superior, in thousands of square kilometers?",
+  "value": 82.1,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-092",
+  "prompt": "Surface area of Lake Victoria, in thousands of square kilometers?",
+  "value": 68.9,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-093",
+  "prompt": "Surface area of Lake Tanganyika, in thousands of square kilometers?",
+  "value": 32.9,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-094",
+  "prompt": "Surface area of Lake Baikal, in thousands of square kilometers?",
+  "value": 31.7,
+  "source": "Wikidata P2046",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-095",
+  "prompt": "Maximum depth of Lake Baikal, in meters?",
+  "value": 1642,
+  "source": "Wikidata P4511",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-096",
+  "prompt": "Nominal GDP of the United States, in billions of US dollars?",
+  "value": 27361,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2023",
+  "tier": 1,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-097",
+  "prompt": "Nominal GDP of China, in billions of US dollars?",
+  "value": 17795,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2023",
+  "tier": 1,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-098",
+  "prompt": "Nominal GDP of Germany, in billions of US dollars?",
+  "value": 4456,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-099",
+  "prompt": "Nominal GDP of Japan, in billions of US dollars?",
+  "value": 4213,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-100",
+  "prompt": "Nominal GDP of India, in billions of US dollars?",
+  "value": 3550,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-101",
+  "prompt": "Nominal GDP of the United Kingdom, in billions of US dollars?",
+  "value": 3340,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-102",
+  "prompt": "Nominal GDP of France, in billions of US dollars?",
+  "value": 3031,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-103",
+  "prompt": "Nominal GDP of Italy, in billions of US dollars?",
+  "value": 2255,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-104",
+  "prompt": "Nominal GDP of Brazil, in billions of US dollars?",
+  "value": 2174,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-105",
+  "prompt": "Nominal GDP of Canada, in billions of US dollars?",
+  "value": 2140,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-106",
+  "prompt": "Nominal GDP of Mexico, in billions of US dollars?",
+  "value": 1789,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-107",
+  "prompt": "Nominal GDP of South Korea, in billions of US dollars?",
+  "value": 1713,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-108",
+  "prompt": "Nominal GDP of Spain, in billions of US dollars?",
+  "value": 1581,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-109",
+  "prompt": "Nominal GDP of the Netherlands, in billions of US dollars?",
+  "value": 1118,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-110",
+  "prompt": "Life expectancy at birth in Japan, in years?",
+  "value": 84,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2022",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-111",
+  "prompt": "Life expectancy at birth in the United States, in years?",
+  "value": 77.5,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2022",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-112",
+  "prompt": "Life expectancy at birth in Germany, in years?",
+  "value": 80.9,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2022",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-113",
+  "prompt": "Life expectancy at birth in India, in years?",
+  "value": 67.7,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2022",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-114",
+  "prompt": "Life expectancy at birth in Nigeria, in years?",
+  "value": 53.6,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2022",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-115",
+  "prompt": "Average distance from the Earth to the Moon, in thousands of kilometers?",
+  "value": 384.4,
+  "source": "NASA",
+  "asOf": "2024",
+  "tier": 1,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-116",
+  "prompt": "Average distance from the Earth to the Sun, in millions of kilometers?",
+  "value": 149.6,
+  "source": "NASA",
+  "asOf": "2024",
+  "tier": 1,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-117",
+  "prompt": "Equatorial circumference of the Earth, in kilometers?",
+  "value": 40075,
+  "source": "NASA",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-118",
+  "prompt": "Mean diameter of the Earth, in kilometers?",
+  "value": 12742,
+  "source": "NASA",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-119",
+  "prompt": "Approximate orbital altitude of the International Space Station, in kilometers?",
+  "value": 420,
+  "source": "NASA",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-120",
+  "prompt": "Official distance of a marathon, in kilometers?",
+  "value": 42.195,
+  "source": "World Athletics",
+  "asOf": "2024",
+  "tier": 1,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-121",
+  "prompt": "Speed of sound in air at sea level (20°C), in meters per second?",
+  "value": 343,
+  "source": "reference physics",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-122",
+  "prompt": "Number of member states of the United Nations?",
+  "value": 193,
+  "source": "UN",
+  "asOf": "2024",
+  "tier": 1,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-123",
+  "prompt": "Number of countries in Africa (UN members)?",
+  "value": 54,
+  "source": "UN",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-124",
+  "prompt": "Number of member states of the European Union?",
+  "value": 27,
+  "source": "EU",
+  "asOf": "2024",
+  "tier": 1,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-125",
+  "prompt": "Number of elements in the periodic table?",
+  "value": 118,
+  "source": "IUPAC",
+  "asOf": "2024",
+  "tier": 1,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-126",
+  "prompt": "Number of bones in the adult human body?",
+  "value": 206,
+  "source": "anatomy reference",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-127",
+  "prompt": "Number of keys on a standard piano?",
+  "value": 88,
+  "source": "reference",
+  "asOf": "2024",
+  "tier": 1,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-128",
+  "prompt": "Number of voting members in the US House of Representatives?",
+  "value": 435,
+  "source": "US House",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-129",
+  "prompt": "Number of seats in the UK House of Commons?",
+  "value": 650,
+  "source": "UK Parliament",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-130",
+  "prompt": "Number of stations in the New York City Subway?",
+  "value": 472,
+  "source": "MTA",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-131",
+  "prompt": "Number of stations on the London Underground?",
+  "value": 272,
+  "source": "TfL",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-132",
+  "prompt": "Total route length of the London Underground, in kilometers?",
+  "value": 402,
+  "source": "TfL",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-133",
+  "prompt": "Official total length of the Great Wall of China (all sections), in kilometers?",
+  "value": 21196,
+  "source": "2012 SACH survey",
+  "asOf": "2012",
+  "tier": 3,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-134",
+  "prompt": "Number of teams in the 2026 FIFA World Cup?",
+  "value": 48,
+  "source": "FIFA",
+  "asOf": "2026",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-135",
+  "prompt": "Number of gold-medal events at the Paris 2024 Olympics?",
+  "value": 329,
+  "source": "IOC",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-136",
+  "prompt": "Number of sonnets written by Shakespeare in the 1609 quarto?",
+  "value": 154,
+  "source": "reference",
+  "asOf": "1609",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-137",
+  "prompt": "Number of known moons of Jupiter (as of 2023)?",
+  "value": 95,
+  "source": "IAU",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-138",
+  "prompt": "Number of known moons of Saturn (as of 2023)?",
+  "value": 146,
+  "source": "IAU",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-139",
+  "prompt": "Number of chromosomes in a typical human cell?",
+  "value": 46,
+  "source": "reference",
+  "asOf": "2024",
+  "tier": 1,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-140",
+  "prompt": "Area of the Amazon rainforest, in millions of square kilometers?",
+  "value": 5.5,
+  "source": "Wikidata",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0002",
+  "prompt": "Population of Bangladesh, in millions of people?",
+  "value": 175.7,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0006",
+  "prompt": "Population of Colombia, in millions of people?",
+  "value": 53.43,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0008",
+  "prompt": "Population of Algeria, in millions of people?",
+  "value": 47.44,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0011",
+  "prompt": "Population of Ethiopia, in millions of people?",
+  "value": 135.5,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0016",
+  "prompt": "Population of Iran, in millions of people?",
+  "value": 92.42,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0023",
+  "prompt": "Population of the Philippines, in millions of people?",
+  "value": 116.8,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0024",
+  "prompt": "Population of Russia, in millions of people?",
+  "value": 143.5,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 1,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0027",
+  "prompt": "Population of Ukraine, in millions of people?",
+  "value": 38.98,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0032",
+  "prompt": "Population of Austria, in millions of people?",
+  "value": 9.208,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0033",
+  "prompt": "Population of Belgium, in millions of people?",
+  "value": 11.94,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0035",
+  "prompt": "Population of Chile, in millions of people?",
+  "value": 19.86,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0036",
+  "prompt": "Population of Denmark, in millions of people?",
+  "value": 6.009,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0037",
+  "prompt": "Population of Ecuador, in millions of people?",
+  "value": 18.29,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0038",
+  "prompt": "Population of Finland, in millions of people?",
+  "value": 5.646,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0039",
+  "prompt": "Population of Ghana, in millions of people?",
+  "value": 35.06,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0040",
+  "prompt": "Population of Greece, in millions of people?",
+  "value": 10.41,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 2,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0045",
+  "prompt": "Population of Cambodia, in millions of people?",
+  "value": 17.85,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0046",
+  "prompt": "Population of Morocco, in millions of people?",
+  "value": 38.43,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0047",
+  "prompt": "Population of Malaysia, in millions of people?",
+  "value": 35.98,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0048",
+  "prompt": "Population of the Netherlands, in millions of people?",
+  "value": 18.09,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 2,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0052",
+  "prompt": "Population of Peru, in millions of people?",
+  "value": 34.58,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0055",
+  "prompt": "Population of Saudi Arabia, in millions of people?",
+  "value": 36.97,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0056",
+  "prompt": "Population of Senegal, in millions of people?",
+  "value": 18.93,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0059",
+  "prompt": "Population of Tanzania, in millions of people?",
+  "value": 70.55,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0060",
+  "prompt": "Population of Venezuela, in millions of people?",
+  "value": 28.52,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0061",
+  "prompt": "Population of Afghanistan, in millions of people?",
+  "value": 43.84,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0062",
+  "prompt": "Population of the United Arab Emirates, in millions of people?",
+  "value": 11.51,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 2,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0063",
+  "prompt": "Population of Bolivia, in millions of people?",
+  "value": 12.58,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0064",
+  "prompt": "Population of Costa Rica, in millions of people?",
+  "value": 5.153,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0065",
+  "prompt": "Population of Cuba, in millions of people?",
+  "value": 10.94,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0066",
+  "prompt": "Population of Czechia, in millions of people?",
+  "value": 10.89,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0067",
+  "prompt": "Population of Hungary, in millions of people?",
+  "value": 9.514,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0068",
+  "prompt": "Population of Iraq, in millions of people?",
+  "value": 47.02,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0069",
+  "prompt": "Population of Jordan, in millions of people?",
+  "value": 11.52,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0070",
+  "prompt": "Population of Kazakhstan, in millions of people?",
+  "value": 20.84,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0071",
+  "prompt": "Population of Kuwait, in millions of people?",
+  "value": 4.865,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0072",
+  "prompt": "Population of Sri Lanka, in millions of people?",
+  "value": 21.76,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0073",
+  "prompt": "Population of Myanmar, in millions of people?",
+  "value": 54.85,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0074",
+  "prompt": "Population of Mongolia, in millions of people?",
+  "value": 3.569,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0075",
+  "prompt": "Population of Oman, in millions of people?",
+  "value": 5.495,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0076",
+  "prompt": "Population of Panama, in millions of people?",
+  "value": 4.571,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0077",
+  "prompt": "Population of Paraguay, in millions of people?",
+  "value": 7.013,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0078",
+  "prompt": "Population of Qatar, in millions of people?",
+  "value": 2.972,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 0
+ },
+ {
+  "id": "rw-gen-0079",
+  "prompt": "Population of Romania, in millions of people?",
+  "value": 19.02,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0080",
+  "prompt": "Population of Tunisia, in millions of people?",
+  "value": 12.35,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0081",
+  "prompt": "Population of Uganda, in millions of people?",
+  "value": 51.38,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0082",
+  "prompt": "Population of Uruguay, in millions of people?",
+  "value": 3.385,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0083",
+  "prompt": "Population of Uzbekistan, in millions of people?",
+  "value": 37.05,
+  "source": "World Bank SP.POP.TOTL",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0084",
+  "prompt": "Nominal GDP of Argentina, in billions of US dollars?",
+  "value": 683.1,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0085",
+  "prompt": "Nominal GDP of Bangladesh, in billions of US dollars?",
+  "value": 456.3,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0089",
+  "prompt": "Nominal GDP of Colombia, in billions of US dollars?",
+  "value": 457.4,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0091",
+  "prompt": "Nominal GDP of Algeria, in billions of US dollars?",
+  "value": 287,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0092",
+  "prompt": "Nominal GDP of Egypt, in billions of US dollars?",
+  "value": 365.3,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0094",
+  "prompt": "Nominal GDP of Ethiopia, in billions of US dollars?",
+  "value": 126.4,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0097",
+  "prompt": "Nominal GDP of Indonesia, in billions of US dollars?",
+  "value": 1446,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0099",
+  "prompt": "Nominal GDP of Iran, in billions of US dollars?",
+  "value": 362.7,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0104",
+  "prompt": "Nominal GDP of Nigeria, in billions of US dollars?",
+  "value": 290.8,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0105",
+  "prompt": "Nominal GDP of Pakistan, in billions of US dollars?",
+  "value": 407.3,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0106",
+  "prompt": "Nominal GDP of the Philippines, in billions of US dollars?",
+  "value": 487.1,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0107",
+  "prompt": "Nominal GDP of Russia, in billions of US dollars?",
+  "value": 2561,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 2,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0108",
+  "prompt": "Nominal GDP of Thailand, in billions of US dollars?",
+  "value": 577,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0109",
+  "prompt": "Nominal GDP of Turkey, in billions of US dollars?",
+  "value": 1597,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0110",
+  "prompt": "Nominal GDP of Ukraine, in billions of US dollars?",
+  "value": 214.2,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0112",
+  "prompt": "Nominal GDP of Vietnam, in billions of US dollars?",
+  "value": 514.7,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0113",
+  "prompt": "Nominal GDP of South Africa, in billions of US dollars?",
+  "value": 427.2,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0114",
+  "prompt": "Nominal GDP of Australia, in billions of US dollars?",
+  "value": 1799,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 2,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0115",
+  "prompt": "Nominal GDP of Austria, in billions of US dollars?",
+  "value": 579.5,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0116",
+  "prompt": "Nominal GDP of Belgium, in billions of US dollars?",
+  "value": 725.5,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0117",
+  "prompt": "Nominal GDP of Switzerland, in billions of US dollars?",
+  "value": 1044,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0118",
+  "prompt": "Nominal GDP of Chile, in billions of US dollars?",
+  "value": 357.4,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0119",
+  "prompt": "Nominal GDP of Denmark, in billions of US dollars?",
+  "value": 462.5,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0120",
+  "prompt": "Nominal GDP of Ecuador, in billions of US dollars?",
+  "value": 130.3,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0121",
+  "prompt": "Nominal GDP of Finland, in billions of US dollars?",
+  "value": 317,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0122",
+  "prompt": "Nominal GDP of Ghana, in billions of US dollars?",
+  "value": 114.2,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0123",
+  "prompt": "Nominal GDP of Greece, in billions of US dollars?",
+  "value": 280.6,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0124",
+  "prompt": "Nominal GDP of Ireland, in billions of US dollars?",
+  "value": 721.7,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0125",
+  "prompt": "Nominal GDP of Iceland, in billions of US dollars?",
+  "value": 38.58,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0126",
+  "prompt": "Nominal GDP of Israel, in billions of US dollars?",
+  "value": 610.8,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0127",
+  "prompt": "Nominal GDP of Kenya, in billions of US dollars?",
+  "value": 135.9,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0128",
+  "prompt": "Nominal GDP of Cambodia, in billions of US dollars?",
+  "value": 51.27,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0129",
+  "prompt": "Nominal GDP of Morocco, in billions of US dollars?",
+  "value": 182.4,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0130",
+  "prompt": "Nominal GDP of Malaysia, in billions of US dollars?",
+  "value": 472.2,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0132",
+  "prompt": "Nominal GDP of Norway, in billions of US dollars?",
+  "value": 530.8,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0133",
+  "prompt": "Nominal GDP of Nepal, in billions of US dollars?",
+  "value": 45.49,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0134",
+  "prompt": "Nominal GDP of New Zealand, in billions of US dollars?",
+  "value": 264.1,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0135",
+  "prompt": "Nominal GDP of Peru, in billions of US dollars?",
+  "value": 334.9,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0136",
+  "prompt": "Nominal GDP of Poland, in billions of US dollars?",
+  "value": 1035,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0137",
+  "prompt": "Nominal GDP of Portugal, in billions of US dollars?",
+  "value": 346.6,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0138",
+  "prompt": "Nominal GDP of Saudi Arabia, in billions of US dollars?",
+  "value": 1277,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0139",
+  "prompt": "Nominal GDP of Senegal, in billions of US dollars?",
+  "value": 37.01,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0140",
+  "prompt": "Nominal GDP of Singapore, in billions of US dollars?",
+  "value": 603.9,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0141",
+  "prompt": "Nominal GDP of Sweden, in billions of US dollars?",
+  "value": 669,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0142",
+  "prompt": "Nominal GDP of Tanzania, in billions of US dollars?",
+  "value": 90.14,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0143",
+  "prompt": "Nominal GDP of Venezuela, in billions of US dollars?",
+  "value": 99.66,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0144",
+  "prompt": "Nominal GDP of Afghanistan, in billions of US dollars?",
+  "value": 17.78,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0145",
+  "prompt": "Nominal GDP of the United Arab Emirates, in billions of US dollars?",
+  "value": 552.3,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0146",
+  "prompt": "Nominal GDP of Bolivia, in billions of US dollars?",
+  "value": 64.77,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0147",
+  "prompt": "Nominal GDP of Costa Rica, in billions of US dollars?",
+  "value": 102.9,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0148",
+  "prompt": "Nominal GDP of Cuba, in billions of US dollars?",
+  "value": 107.4,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2020",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0149",
+  "prompt": "Nominal GDP of Czechia, in billions of US dollars?",
+  "value": 391,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0150",
+  "prompt": "Nominal GDP of Hungary, in billions of US dollars?",
+  "value": 246.5,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0151",
+  "prompt": "Nominal GDP of Iraq, in billions of US dollars?",
+  "value": 254.4,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0152",
+  "prompt": "Nominal GDP of Jordan, in billions of US dollars?",
+  "value": 61.61,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0153",
+  "prompt": "Nominal GDP of Kazakhstan, in billions of US dollars?",
+  "value": 306.2,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0154",
+  "prompt": "Nominal GDP of Kuwait, in billions of US dollars?",
+  "value": 157.2,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0155",
+  "prompt": "Nominal GDP of Sri Lanka, in billions of US dollars?",
+  "value": 108.8,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0156",
+  "prompt": "Nominal GDP of Myanmar, in billions of US dollars?",
+  "value": 81.67,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0157",
+  "prompt": "Nominal GDP of Mongolia, in billions of US dollars?",
+  "value": 25.37,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0158",
+  "prompt": "Nominal GDP of Oman, in billions of US dollars?",
+  "value": 109.6,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0159",
+  "prompt": "Nominal GDP of Panama, in billions of US dollars?",
+  "value": 90.46,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0160",
+  "prompt": "Nominal GDP of Paraguay, in billions of US dollars?",
+  "value": 49.28,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0161",
+  "prompt": "Nominal GDP of Qatar, in billions of US dollars?",
+  "value": 215.6,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0162",
+  "prompt": "Nominal GDP of Romania, in billions of US dollars?",
+  "value": 428.7,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0163",
+  "prompt": "Nominal GDP of Tunisia, in billions of US dollars?",
+  "value": 57.5,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0164",
+  "prompt": "Nominal GDP of Uganda, in billions of US dollars?",
+  "value": 61.99,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0165",
+  "prompt": "Nominal GDP of Uruguay, in billions of US dollars?",
+  "value": 85.35,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0166",
+  "prompt": "Nominal GDP of Uzbekistan, in billions of US dollars?",
+  "value": 147,
+  "source": "World Bank NY.GDP.MKTP.CD",
+  "asOf": "2025",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0167",
+  "prompt": "Life expectancy at birth in Argentina, in years?",
+  "value": 77.54,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0168",
+  "prompt": "Life expectancy at birth in Bangladesh, in years?",
+  "value": 74.93,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0169",
+  "prompt": "Life expectancy at birth in Brazil, in years?",
+  "value": 76.02,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0170",
+  "prompt": "Life expectancy at birth in Canada, in years?",
+  "value": 82.11,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0171",
+  "prompt": "Life expectancy at birth in China, in years?",
+  "value": 78.02,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0172",
+  "prompt": "Life expectancy at birth in Colombia, in years?",
+  "value": 77.91,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0174",
+  "prompt": "Life expectancy at birth in Algeria, in years?",
+  "value": 76.47,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0175",
+  "prompt": "Life expectancy at birth in Egypt, in years?",
+  "value": 71.81,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0176",
+  "prompt": "Life expectancy at birth in Spain, in years?",
+  "value": 83.89,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0177",
+  "prompt": "Life expectancy at birth in Ethiopia, in years?",
+  "value": 67.6,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0178",
+  "prompt": "Life expectancy at birth in France, in years?",
+  "value": 82.98,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0179",
+  "prompt": "Life expectancy at birth in the United Kingdom, in years?",
+  "value": 81.39,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0180",
+  "prompt": "Life expectancy at birth in Indonesia, in years?",
+  "value": 71.29,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0182",
+  "prompt": "Life expectancy at birth in Iran, in years?",
+  "value": 77.85,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0183",
+  "prompt": "Life expectancy at birth in Italy, in years?",
+  "value": 83.95,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0185",
+  "prompt": "Life expectancy at birth in South Korea, in years?",
+  "value": 83.63,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0186",
+  "prompt": "Life expectancy at birth in Mexico, in years?",
+  "value": 75.26,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0188",
+  "prompt": "Life expectancy at birth in Pakistan, in years?",
+  "value": 67.8,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0189",
+  "prompt": "Life expectancy at birth in the Philippines, in years?",
+  "value": 69.95,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0190",
+  "prompt": "Life expectancy at birth in Russia, in years?",
+  "value": 73.44,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0191",
+  "prompt": "Life expectancy at birth in Thailand, in years?",
+  "value": 76.56,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0192",
+  "prompt": "Life expectancy at birth in Turkey, in years?",
+  "value": 77.42,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0193",
+  "prompt": "Life expectancy at birth in Ukraine, in years?",
+  "value": 74.69,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0195",
+  "prompt": "Life expectancy at birth in Vietnam, in years?",
+  "value": 74.74,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0196",
+  "prompt": "Life expectancy at birth in South Africa, in years?",
+  "value": 66.31,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0197",
+  "prompt": "Life expectancy at birth in Australia, in years?",
+  "value": 83.05,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0198",
+  "prompt": "Life expectancy at birth in Austria, in years?",
+  "value": 82,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0199",
+  "prompt": "Life expectancy at birth in Belgium, in years?",
+  "value": 82.3,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0200",
+  "prompt": "Life expectancy at birth in Switzerland, in years?",
+  "value": 84.41,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0201",
+  "prompt": "Life expectancy at birth in Chile, in years?",
+  "value": 81.36,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0202",
+  "prompt": "Life expectancy at birth in Denmark, in years?",
+  "value": 82.25,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0203",
+  "prompt": "Life expectancy at birth in Ecuador, in years?",
+  "value": 77.58,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0204",
+  "prompt": "Life expectancy at birth in Finland, in years?",
+  "value": 82.34,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0205",
+  "prompt": "Life expectancy at birth in Ghana, in years?",
+  "value": 65.69,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0206",
+  "prompt": "Life expectancy at birth in Greece, in years?",
+  "value": 81.84,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0207",
+  "prompt": "Life expectancy at birth in Ireland, in years?",
+  "value": 83.01,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0208",
+  "prompt": "Life expectancy at birth in Iceland, in years?",
+  "value": 82.81,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0209",
+  "prompt": "Life expectancy at birth in Israel, in years?",
+  "value": 83.2,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0210",
+  "prompt": "Life expectancy at birth in Kenya, in years?",
+  "value": 63.83,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0211",
+  "prompt": "Life expectancy at birth in Cambodia, in years?",
+  "value": 70.82,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0212",
+  "prompt": "Life expectancy at birth in Morocco, in years?",
+  "value": 75.49,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0213",
+  "prompt": "Life expectancy at birth in Malaysia, in years?",
+  "value": 76.82,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0214",
+  "prompt": "Life expectancy at birth in the Netherlands, in years?",
+  "value": 81.97,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0215",
+  "prompt": "Life expectancy at birth in Norway, in years?",
+  "value": 83.16,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0216",
+  "prompt": "Life expectancy at birth in Nepal, in years?",
+  "value": 70.64,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0217",
+  "prompt": "Life expectancy at birth in New Zealand, in years?",
+  "value": 82.01,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0218",
+  "prompt": "Life expectancy at birth in Peru, in years?",
+  "value": 77.94,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0219",
+  "prompt": "Life expectancy at birth in Poland, in years?",
+  "value": 78.41,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0220",
+  "prompt": "Life expectancy at birth in Portugal, in years?",
+  "value": 82.38,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0221",
+  "prompt": "Life expectancy at birth in Saudi Arabia, in years?",
+  "value": 78.98,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0222",
+  "prompt": "Life expectancy at birth in Senegal, in years?",
+  "value": 68.92,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0223",
+  "prompt": "Life expectancy at birth in Singapore, in years?",
+  "value": 83.35,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0224",
+  "prompt": "Life expectancy at birth in Sweden, in years?",
+  "value": 84.06,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0225",
+  "prompt": "Life expectancy at birth in Tanzania, in years?",
+  "value": 67.21,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0226",
+  "prompt": "Life expectancy at birth in Venezuela, in years?",
+  "value": 72.67,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0227",
+  "prompt": "Life expectancy at birth in Afghanistan, in years?",
+  "value": 66.29,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0228",
+  "prompt": "Life expectancy at birth in the United Arab Emirates, in years?",
+  "value": 83.07,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0229",
+  "prompt": "Life expectancy at birth in Bolivia, in years?",
+  "value": 68.74,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0230",
+  "prompt": "Life expectancy at birth in Costa Rica, in years?",
+  "value": 81,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0231",
+  "prompt": "Life expectancy at birth in Cuba, in years?",
+  "value": 78.26,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0232",
+  "prompt": "Life expectancy at birth in Czechia, in years?",
+  "value": 79.98,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0233",
+  "prompt": "Life expectancy at birth in Hungary, in years?",
+  "value": 76.72,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0234",
+  "prompt": "Life expectancy at birth in Iraq, in years?",
+  "value": 72.42,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0235",
+  "prompt": "Life expectancy at birth in Jordan, in years?",
+  "value": 77.98,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0236",
+  "prompt": "Life expectancy at birth in Kazakhstan, in years?",
+  "value": 74.53,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0237",
+  "prompt": "Life expectancy at birth in Kuwait, in years?",
+  "value": 84.58,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0238",
+  "prompt": "Life expectancy at birth in Sri Lanka, in years?",
+  "value": 77.67,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0239",
+  "prompt": "Life expectancy at birth in Myanmar, in years?",
+  "value": 67.09,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0240",
+  "prompt": "Life expectancy at birth in Mongolia, in years?",
+  "value": 72.4,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0241",
+  "prompt": "Life expectancy at birth in Oman, in years?",
+  "value": 80.25,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0242",
+  "prompt": "Life expectancy at birth in Panama, in years?",
+  "value": 79.78,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0243",
+  "prompt": "Life expectancy at birth in Paraguay, in years?",
+  "value": 73.98,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0244",
+  "prompt": "Life expectancy at birth in Qatar, in years?",
+  "value": 82.52,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0245",
+  "prompt": "Life expectancy at birth in Romania, in years?",
+  "value": 76.46,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0246",
+  "prompt": "Life expectancy at birth in Tunisia, in years?",
+  "value": 76.71,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0247",
+  "prompt": "Life expectancy at birth in Uganda, in years?",
+  "value": 68.49,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0248",
+  "prompt": "Life expectancy at birth in Uruguay, in years?",
+  "value": 78.29,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0249",
+  "prompt": "Life expectancy at birth in Uzbekistan, in years?",
+  "value": 72.53,
+  "source": "World Bank SP.DYN.LE00.IN",
+  "asOf": "2024",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0250",
+  "prompt": "Population density of Argentina, in people per square kilometer?",
+  "value": 16.64,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0251",
+  "prompt": "Population density of Bangladesh, in people per square kilometer?",
+  "value": 1319,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0252",
+  "prompt": "Population density of Brazil, in people per square kilometer?",
+  "value": 25.26,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0253",
+  "prompt": "Population density of Canada, in people per square kilometer?",
+  "value": 4.557,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0254",
+  "prompt": "Population density of China, in people per square kilometer?",
+  "value": 150.3,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0255",
+  "prompt": "Population density of Colombia, in people per square kilometer?",
+  "value": 47.16,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0256",
+  "prompt": "Population density of Germany, in people per square kilometer?",
+  "value": 238.4,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0257",
+  "prompt": "Population density of Algeria, in people per square kilometer?",
+  "value": 19.38,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0258",
+  "prompt": "Population density of Egypt, in people per square kilometer?",
+  "value": 115.1,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0259",
+  "prompt": "Population density of Spain, in people per square kilometer?",
+  "value": 96.76,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0260",
+  "prompt": "Population density of Ethiopia, in people per square kilometer?",
+  "value": 114,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0261",
+  "prompt": "Population density of France, in people per square kilometer?",
+  "value": 126.9,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0262",
+  "prompt": "Population density of the United Kingdom, in people per square kilometer?",
+  "value": 283.2,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0263",
+  "prompt": "Population density of Indonesia, in people per square kilometer?",
+  "value": 148.6,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0264",
+  "prompt": "Population density of India, in people per square kilometer?",
+  "value": 483.7,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0265",
+  "prompt": "Population density of Iran, in people per square kilometer?",
+  "value": 55.85,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0266",
+  "prompt": "Population density of Italy, in people per square kilometer?",
+  "value": 199.5,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0267",
+  "prompt": "Population density of Japan, in people per square kilometer?",
+  "value": 341.5,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0268",
+  "prompt": "Population density of South Korea, in people per square kilometer?",
+  "value": 529.8,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0269",
+  "prompt": "Population density of Mexico, in people per square kilometer?",
+  "value": 66.74,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0270",
+  "prompt": "Population density of Nigeria, in people per square kilometer?",
+  "value": 250.2,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0271",
+  "prompt": "Population density of Pakistan, in people per square kilometer?",
+  "value": 321.1,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0272",
+  "prompt": "Population density of the Philippines, in people per square kilometer?",
+  "value": 385.3,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0273",
+  "prompt": "Population density of Russia, in people per square kilometer?",
+  "value": 8.782,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0274",
+  "prompt": "Population density of Thailand, in people per square kilometer?",
+  "value": 140.3,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0275",
+  "prompt": "Population density of Turkey, in people per square kilometer?",
+  "value": 110.9,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0276",
+  "prompt": "Population density of Ukraine, in people per square kilometer?",
+  "value": 65.12,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0277",
+  "prompt": "Population density of the United States, in people per square kilometer?",
+  "value": 36.81,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0278",
+  "prompt": "Population density of Vietnam, in people per square kilometer?",
+  "value": 320.2,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0279",
+  "prompt": "Population density of South Africa, in people per square kilometer?",
+  "value": 52.11,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0280",
+  "prompt": "Population density of Australia, in people per square kilometer?",
+  "value": 3.466,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0281",
+  "prompt": "Population density of Austria, in people per square kilometer?",
+  "value": 110.7,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0282",
+  "prompt": "Population density of Belgium, in people per square kilometer?",
+  "value": 386.3,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0283",
+  "prompt": "Population density of Switzerland, in people per square kilometer?",
+  "value": 225,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0284",
+  "prompt": "Population density of Chile, in people per square kilometer?",
+  "value": 26.46,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0285",
+  "prompt": "Population density of Denmark, in people per square kilometer?",
+  "value": 148.7,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0286",
+  "prompt": "Population density of Ecuador, in people per square kilometer?",
+  "value": 72.4,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0287",
+  "prompt": "Population density of Finland, in people per square kilometer?",
+  "value": 18.37,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0288",
+  "prompt": "Population density of Ghana, in people per square kilometer?",
+  "value": 148.5,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0289",
+  "prompt": "Population density of Greece, in people per square kilometer?",
+  "value": 80.74,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0290",
+  "prompt": "Population density of Ireland, in people per square kilometer?",
+  "value": 77.1,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0291",
+  "prompt": "Population density of Iceland, in people per square kilometer?",
+  "value": 3.825,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0292",
+  "prompt": "Population density of Israel, in people per square kilometer?",
+  "value": 455.1,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0293",
+  "prompt": "Population density of Kenya, in people per square kilometer?",
+  "value": 95.27,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0294",
+  "prompt": "Population density of Cambodia, in people per square kilometer?",
+  "value": 98.71,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0295",
+  "prompt": "Population density of Morocco, in people per square kilometer?",
+  "value": 84.5,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0296",
+  "prompt": "Population density of Malaysia, in people per square kilometer?",
+  "value": 106.9,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0297",
+  "prompt": "Population density of the Netherlands, in people per square kilometer?",
+  "value": 531,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0298",
+  "prompt": "Population density of Norway, in people per square kilometer?",
+  "value": 15.15,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0299",
+  "prompt": "Population density of Nepal, in people per square kilometer?",
+  "value": 207.1,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0300",
+  "prompt": "Population density of New Zealand, in people per square kilometer?",
+  "value": 19.75,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0301",
+  "prompt": "Population density of Peru, in people per square kilometer?",
+  "value": 26.44,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0302",
+  "prompt": "Population density of Poland, in people per square kilometer?",
+  "value": 119.8,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0303",
+  "prompt": "Population density of Portugal, in people per square kilometer?",
+  "value": 115.5,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0304",
+  "prompt": "Population density of Saudi Arabia, in people per square kilometer?",
+  "value": 15.68,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0305",
+  "prompt": "Population density of Senegal, in people per square kilometer?",
+  "value": 93.89,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0306",
+  "prompt": "Population density of Singapore, in people per square kilometer?",
+  "value": 8242,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-gen-0307",
+  "prompt": "Population density of Sweden, in people per square kilometer?",
+  "value": 25.87,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0308",
+  "prompt": "Population density of Tanzania, in people per square kilometer?",
+  "value": 75.21,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0309",
+  "prompt": "Population density of Venezuela, in people per square kilometer?",
+  "value": 32.09,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0310",
+  "prompt": "Population density of Afghanistan, in people per square kilometer?",
+  "value": 63.56,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0311",
+  "prompt": "Population density of the United Arab Emirates, in people per square kilometer?",
+  "value": 147.6,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0312",
+  "prompt": "Population density of Bolivia, in people per square kilometer?",
+  "value": 11.3,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0313",
+  "prompt": "Population density of Costa Rica, in people per square kilometer?",
+  "value": 99.99,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0314",
+  "prompt": "Population density of Cuba, in people per square kilometer?",
+  "value": 106.2,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0315",
+  "prompt": "Population density of Czechia, in people per square kilometer?",
+  "value": 140.8,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0316",
+  "prompt": "Population density of Hungary, in people per square kilometer?",
+  "value": 105.1,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0317",
+  "prompt": "Population density of Iraq, in people per square kilometer?",
+  "value": 103.8,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0318",
+  "prompt": "Population density of Jordan, in people per square kilometer?",
+  "value": 128.8,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0319",
+  "prompt": "Population density of Kazakhstan, in people per square kilometer?",
+  "value": 7.531,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0320",
+  "prompt": "Population density of Kuwait, in people per square kilometer?",
+  "value": 272.4,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0321",
+  "prompt": "Population density of Sri Lanka, in people per square kilometer?",
+  "value": 356.2,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0322",
+  "prompt": "Population density of Myanmar, in people per square kilometer?",
+  "value": 82.94,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0323",
+  "prompt": "Population density of Mongolia, in people per square kilometer?",
+  "value": 2.234,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 0
+ },
+ {
+  "id": "rw-gen-0324",
+  "prompt": "Population density of Oman, in people per square kilometer?",
+  "value": 16.31,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0325",
+  "prompt": "Population density of Panama, in people per square kilometer?",
+  "value": 60.11,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0326",
+  "prompt": "Population density of Paraguay, in people per square kilometer?",
+  "value": 17.28,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0327",
+  "prompt": "Population density of Qatar, in people per square kilometer?",
+  "value": 231.2,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0328",
+  "prompt": "Population density of Romania, in people per square kilometer?",
+  "value": 82.85,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0329",
+  "prompt": "Population density of Tunisia, in people per square kilometer?",
+  "value": 78.53,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0330",
+  "prompt": "Population density of Uganda, in people per square kilometer?",
+  "value": 242.7,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0331",
+  "prompt": "Population density of Uruguay, in people per square kilometer?",
+  "value": 19.36,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0332",
+  "prompt": "Population density of Uzbekistan, in people per square kilometer?",
+  "value": 80.91,
+  "source": "World Bank EN.POP.DNST",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0333",
+  "prompt": "Total surface area of Argentina, in thousands of square kilometers?",
+  "value": 2780,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0334",
+  "prompt": "Total surface area of Bangladesh, in thousands of square kilometers?",
+  "value": 147.6,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0335",
+  "prompt": "Total surface area of Brazil, in thousands of square kilometers?",
+  "value": 8510,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-gen-0336",
+  "prompt": "Total surface area of Canada, in thousands of square kilometers?",
+  "value": 15630,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-gen-0337",
+  "prompt": "Total surface area of China, in thousands of square kilometers?",
+  "value": 9563,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-gen-0338",
+  "prompt": "Total surface area of Colombia, in thousands of square kilometers?",
+  "value": 1141,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0339",
+  "prompt": "Total surface area of Germany, in thousands of square kilometers?",
+  "value": 357.7,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0340",
+  "prompt": "Total surface area of Algeria, in thousands of square kilometers?",
+  "value": 2382,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0341",
+  "prompt": "Total surface area of Egypt, in thousands of square kilometers?",
+  "value": 1001,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0342",
+  "prompt": "Total surface area of Spain, in thousands of square kilometers?",
+  "value": 506,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0343",
+  "prompt": "Total surface area of Ethiopia, in thousands of square kilometers?",
+  "value": 1136,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0344",
+  "prompt": "Total surface area of France, in thousands of square kilometers?",
+  "value": 606.4,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0345",
+  "prompt": "Total surface area of the United Kingdom, in thousands of square kilometers?",
+  "value": 243.6,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0346",
+  "prompt": "Total surface area of Indonesia, in thousands of square kilometers?",
+  "value": 1917,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0347",
+  "prompt": "Total surface area of India, in thousands of square kilometers?",
+  "value": 3287,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-gen-0348",
+  "prompt": "Total surface area of Iran, in thousands of square kilometers?",
+  "value": 1745,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0349",
+  "prompt": "Total surface area of Italy, in thousands of square kilometers?",
+  "value": 302.1,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0350",
+  "prompt": "Total surface area of Japan, in thousands of square kilometers?",
+  "value": 378,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0351",
+  "prompt": "Total surface area of South Korea, in thousands of square kilometers?",
+  "value": 100.5,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0352",
+  "prompt": "Total surface area of Mexico, in thousands of square kilometers?",
+  "value": 1957,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0353",
+  "prompt": "Total surface area of Nigeria, in thousands of square kilometers?",
+  "value": 923.8,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0354",
+  "prompt": "Total surface area of Pakistan, in thousands of square kilometers?",
+  "value": 796.1,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0355",
+  "prompt": "Total surface area of the Philippines, in thousands of square kilometers?",
+  "value": 300,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0356",
+  "prompt": "Total surface area of Russia, in thousands of square kilometers?",
+  "value": 17130,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-gen-0357",
+  "prompt": "Total surface area of Thailand, in thousands of square kilometers?",
+  "value": 513.1,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0358",
+  "prompt": "Total surface area of Turkey, in thousands of square kilometers?",
+  "value": 785.4,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0359",
+  "prompt": "Total surface area of Ukraine, in thousands of square kilometers?",
+  "value": 603.5,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0360",
+  "prompt": "Total surface area of the United States, in thousands of square kilometers?",
+  "value": 9832,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-gen-0361",
+  "prompt": "Total surface area of Vietnam, in thousands of square kilometers?",
+  "value": 331.3,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0362",
+  "prompt": "Total surface area of South Africa, in thousands of square kilometers?",
+  "value": 1219,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0363",
+  "prompt": "Total surface area of Australia, in thousands of square kilometers?",
+  "value": 7741,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 2,
+  "magnitude": 4
+ },
+ {
+  "id": "rw-gen-0364",
+  "prompt": "Total surface area of Austria, in thousands of square kilometers?",
+  "value": 83.88,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0365",
+  "prompt": "Total surface area of Belgium, in thousands of square kilometers?",
+  "value": 30.69,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0366",
+  "prompt": "Total surface area of Switzerland, in thousands of square kilometers?",
+  "value": 41.29,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0367",
+  "prompt": "Total surface area of Chile, in thousands of square kilometers?",
+  "value": 757.2,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0368",
+  "prompt": "Total surface area of Denmark, in thousands of square kilometers?",
+  "value": 42.92,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0369",
+  "prompt": "Total surface area of Ecuador, in thousands of square kilometers?",
+  "value": 256.4,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0370",
+  "prompt": "Total surface area of Finland, in thousands of square kilometers?",
+  "value": 338.5,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0371",
+  "prompt": "Total surface area of Ghana, in thousands of square kilometers?",
+  "value": 238.5,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0372",
+  "prompt": "Total surface area of Greece, in thousands of square kilometers?",
+  "value": 132,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0373",
+  "prompt": "Total surface area of Ireland, in thousands of square kilometers?",
+  "value": 70.28,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0374",
+  "prompt": "Total surface area of Iceland, in thousands of square kilometers?",
+  "value": 103,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0375",
+  "prompt": "Total surface area of Israel, in thousands of square kilometers?",
+  "value": 22.07,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0376",
+  "prompt": "Total surface area of Kenya, in thousands of square kilometers?",
+  "value": 592,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0377",
+  "prompt": "Total surface area of Cambodia, in thousands of square kilometers?",
+  "value": 181,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0378",
+  "prompt": "Total surface area of Morocco, in thousands of square kilometers?",
+  "value": 446.6,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0379",
+  "prompt": "Total surface area of Malaysia, in thousands of square kilometers?",
+  "value": 330.4,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0380",
+  "prompt": "Total surface area of the Netherlands, in thousands of square kilometers?",
+  "value": 41.54,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0381",
+  "prompt": "Total surface area of Norway, in thousands of square kilometers?",
+  "value": 624.5,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0382",
+  "prompt": "Total surface area of Nepal, in thousands of square kilometers?",
+  "value": 147.2,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0383",
+  "prompt": "Total surface area of New Zealand, in thousands of square kilometers?",
+  "value": 267.7,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0384",
+  "prompt": "Total surface area of Peru, in thousands of square kilometers?",
+  "value": 1285,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0385",
+  "prompt": "Total surface area of Poland, in thousands of square kilometers?",
+  "value": 313.9,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0386",
+  "prompt": "Total surface area of Portugal, in thousands of square kilometers?",
+  "value": 92.23,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0387",
+  "prompt": "Total surface area of Saudi Arabia, in thousands of square kilometers?",
+  "value": 2150,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0388",
+  "prompt": "Total surface area of Senegal, in thousands of square kilometers?",
+  "value": 196.7,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0389",
+  "prompt": "Total surface area of Singapore, in thousands of square kilometers?",
+  "value": 0.728,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 0
+ },
+ {
+  "id": "rw-gen-0390",
+  "prompt": "Total surface area of Sweden, in thousands of square kilometers?",
+  "value": 528.7,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0391",
+  "prompt": "Total surface area of Tanzania, in thousands of square kilometers?",
+  "value": 947.3,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0392",
+  "prompt": "Total surface area of Venezuela, in thousands of square kilometers?",
+  "value": 912,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0393",
+  "prompt": "Total surface area of Afghanistan, in thousands of square kilometers?",
+  "value": 652.9,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0394",
+  "prompt": "Total surface area of the United Arab Emirates, in thousands of square kilometers?",
+  "value": 98.65,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0395",
+  "prompt": "Total surface area of Bolivia, in thousands of square kilometers?",
+  "value": 1099,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0396",
+  "prompt": "Total surface area of Costa Rica, in thousands of square kilometers?",
+  "value": 51.1,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0397",
+  "prompt": "Total surface area of Cuba, in thousands of square kilometers?",
+  "value": 109.9,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0398",
+  "prompt": "Total surface area of Czechia, in thousands of square kilometers?",
+  "value": 78.87,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0399",
+  "prompt": "Total surface area of Hungary, in thousands of square kilometers?",
+  "value": 93.03,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0400",
+  "prompt": "Total surface area of Iraq, in thousands of square kilometers?",
+  "value": 435.1,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0401",
+  "prompt": "Total surface area of Jordan, in thousands of square kilometers?",
+  "value": 89.32,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0402",
+  "prompt": "Total surface area of Kazakhstan, in thousands of square kilometers?",
+  "value": 2725,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0403",
+  "prompt": "Total surface area of Kuwait, in thousands of square kilometers?",
+  "value": 17.82,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0404",
+  "prompt": "Total surface area of Sri Lanka, in thousands of square kilometers?",
+  "value": 65.61,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0405",
+  "prompt": "Total surface area of Myanmar, in thousands of square kilometers?",
+  "value": 676.6,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0406",
+  "prompt": "Total surface area of Mongolia, in thousands of square kilometers?",
+  "value": 1564,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0407",
+  "prompt": "Total surface area of Oman, in thousands of square kilometers?",
+  "value": 309.5,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0408",
+  "prompt": "Total surface area of Panama, in thousands of square kilometers?",
+  "value": 75.32,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0409",
+  "prompt": "Total surface area of Paraguay, in thousands of square kilometers?",
+  "value": 406.8,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0410",
+  "prompt": "Total surface area of Qatar, in thousands of square kilometers?",
+  "value": 11.49,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 1
+ },
+ {
+  "id": "rw-gen-0411",
+  "prompt": "Total surface area of Romania, in thousands of square kilometers?",
+  "value": 238.4,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0412",
+  "prompt": "Total surface area of Tunisia, in thousands of square kilometers?",
+  "value": 163.6,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0413",
+  "prompt": "Total surface area of Uganda, in thousands of square kilometers?",
+  "value": 241.6,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0414",
+  "prompt": "Total surface area of Uruguay, in thousands of square kilometers?",
+  "value": 176.2,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 2
+ },
+ {
+  "id": "rw-gen-0415",
+  "prompt": "Total surface area of Uzbekistan, in thousands of square kilometers?",
+  "value": 448.9,
+  "source": "World Bank AG.SRF.TOTL.K2",
+  "asOf": "2023",
+  "tier": 3,
+  "magnitude": 3
+ },
+ {
+  "id": "rw-gen-0416",
+  "prompt": "Number of subway/metro stations mapped in OpenStreetMap within Madrid?",
+  "value": 191,
+  "source": "OpenStreetMap Overpass",
+  "asOf": "2026-07-22",
+  "tier": 3,
+  "magnitude": 2
+ }
+]

@@ -10,19 +10,38 @@ import StatsScreen from './components/StatsScreen';
 import SettingsSheet from './components/SettingsSheet';
 import Tutorial from './components/Tutorial';
 
+const TUTORIAL_SEEN_KEY = 'spread.tutorialSeen';
+
 export default function App() {
   const [state, dispatch] = useReducer(reducer, initialState);
   // ~1200 procedural probability questions, generated once at startup
   const probPool = useMemo(() => generateProbabilityPool(1200), []);
   const [realPool, setRealPool] = useState<Question[] | null>(null);
   const [loadError, setLoadError] = useState<string | null>(null);
-  // No persistence by design: the tutorial auto-opens once per session.
-  const [showTutorial, setShowTutorial] = useState(true);
+  // Game state resets on reload (no persistence). The one exception is a single
+  // "has seen the tutorial" flag, so the walkthrough auto-opens only on a
+  // player's very first launch — afterwards it's reachable via the button.
+  const [showTutorial, setShowTutorial] = useState(() => {
+    try {
+      return localStorage.getItem(TUTORIAL_SEEN_KEY) === null;
+    } catch {
+      return true;
+    }
+  });
   const [showSettings, setShowSettings] = useState(false);
 
   useEffect(() => {
     loadRealWorldQuestions().then(setRealPool, (e) => setLoadError(String(e)));
   }, []);
+
+  const closeTutorial = () => {
+    setShowTutorial(false);
+    try {
+      localStorage.setItem(TUTORIAL_SEEN_KEY, '1');
+    } catch {
+      /* private mode — tutorial simply reopens next launch */
+    }
+  };
 
   const start = (settings: Settings) => {
     dispatch({
@@ -71,7 +90,7 @@ export default function App() {
           onClose={() => setShowSettings(false)}
         />
       )}
-      {showTutorial && <Tutorial onClose={() => setShowTutorial(false)} />}
+      {showTutorial && <Tutorial onClose={closeTutorial} />}
     </div>
   );
 }
